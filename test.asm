@@ -1,0 +1,1 @@
+fstp dword [ebp]
