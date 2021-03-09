@@ -1,1 +1,3 @@
-fstp dword [ebp]
+BITS 64
+
+add rax, bx
